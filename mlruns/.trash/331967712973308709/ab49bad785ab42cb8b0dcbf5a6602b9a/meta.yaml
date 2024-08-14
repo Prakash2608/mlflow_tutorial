@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/331967712973308709/ab49bad785ab42cb8b0dcbf5a6602b9a/artifacts
+deleted_time: 1723622614376
+end_time: 1723620504355
+entry_point_name: ''
+experiment_id: '331967712973308709'
+lifecycle_stage: deleted
+run_id: ab49bad785ab42cb8b0dcbf5a6602b9a
+run_name: XGBClassifier
+run_uuid: ab49bad785ab42cb8b0dcbf5a6602b9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723620500008
+status: 3
+tags: []
+user_id: praka

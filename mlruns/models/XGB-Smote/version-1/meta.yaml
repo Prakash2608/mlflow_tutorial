@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723626367912
+current_stage: None
+description: ''
+last_updated_timestamp: 1723626367912
+name: XGB-Smote
+run_id: 2ea0b46fae7f44e285b3d192af5c8bbb
+run_link: ''
+source: mlflow-artifacts:/196952936197526188/2ea0b46fae7f44e285b3d192af5c8bbb/artifacts/XGB-Smote
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/196952936197526188/2ea0b46fae7f44e285b3d192af5c8bbb/artifacts/XGB-Smote
+user_id: null
+version: 1

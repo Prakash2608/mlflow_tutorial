@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/331967712973308709/1c271405fa544830b1cdf559ad07c03b/artifacts
+deleted_time: 1723621980508
+end_time: 1723621940199
+entry_point_name: ''
+experiment_id: '331967712973308709'
+lifecycle_stage: deleted
+run_id: 1c271405fa544830b1cdf559ad07c03b
+run_name: XGBClassifier with SMOTE
+run_uuid: 1c271405fa544830b1cdf559ad07c03b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723621935208
+status: 3
+tags: []
+user_id: praka

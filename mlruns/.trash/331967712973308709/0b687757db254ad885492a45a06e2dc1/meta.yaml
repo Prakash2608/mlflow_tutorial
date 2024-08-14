@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/331967712973308709/0b687757db254ad885492a45a06e2dc1/artifacts
+deleted_time: 1723621980507
+end_time: 1723620236550
+entry_point_name: ''
+experiment_id: '331967712973308709'
+lifecycle_stage: deleted
+run_id: 0b687757db254ad885492a45a06e2dc1
+run_name: Logistic Regression
+run_uuid: 0b687757db254ad885492a45a06e2dc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723620236490
+status: 4
+tags: []
+user_id: praka

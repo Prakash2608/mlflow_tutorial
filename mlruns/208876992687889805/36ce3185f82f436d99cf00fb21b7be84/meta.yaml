@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/208876992687889805/36ce3185f82f436d99cf00fb21b7be84/artifacts
+end_time: 1723616968197
+entry_point_name: ''
+experiment_id: '208876992687889805'
+lifecycle_stage: active
+run_id: 36ce3185f82f436d99cf00fb21b7be84
+run_name: merciful-snipe-893
+run_uuid: 36ce3185f82f436d99cf00fb21b7be84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723616960691
+status: 3
+tags: []
+user_id: praka

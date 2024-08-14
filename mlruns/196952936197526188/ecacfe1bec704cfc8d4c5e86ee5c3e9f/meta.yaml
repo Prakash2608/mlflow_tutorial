@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/196952936197526188/ecacfe1bec704cfc8d4c5e86ee5c3e9f/artifacts
+end_time: 1723622758134
+entry_point_name: ''
+experiment_id: '196952936197526188'
+lifecycle_stage: active
+run_id: ecacfe1bec704cfc8d4c5e86ee5c3e9f
+run_name: Random Forest
+run_uuid: ecacfe1bec704cfc8d4c5e86ee5c3e9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723622754478
+status: 3
+tags: []
+user_id: praka
