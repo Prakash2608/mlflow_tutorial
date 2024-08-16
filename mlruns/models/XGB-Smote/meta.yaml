@@ -1,5 +1,6 @@
-aliases: {}
+aliases:
+  challenger: '3'
 creation_timestamp: 1723626367873
 description: ''
-last_updated_timestamp: 1723626664242
+last_updated_timestamp: 1723786439566
 name: XGB-Smote

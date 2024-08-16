@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723786889380
+current_stage: None
+description: this is trained on anomaly detection data and with Smote technique
+last_updated_timestamp: 1723786889380
+name: anomaly-detection-prod
+run_id: 847513b692354899a2554e9568914e47
+run_link: ''
+source: models:/XGB-Smote/3
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/196952936197526188/847513b692354899a2554e9568914e47/artifacts/model
+user_id: null
+version: 1

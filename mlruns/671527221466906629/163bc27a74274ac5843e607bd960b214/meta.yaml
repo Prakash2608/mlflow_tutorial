@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/671527221466906629/163bc27a74274ac5843e607bd960b214/artifacts
+end_time: 1723788863277
+entry_point_name: ''
+experiment_id: '671527221466906629'
+lifecycle_stage: active
+run_id: 163bc27a74274ac5843e607bd960b214
+run_name: XGBClassifier with SMOTE
+run_uuid: 163bc27a74274ac5843e607bd960b214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723788859344
+status: 3
+tags: []
+user_id: e0b66e92e8204583c30ff12a03981ec8ef03452c
